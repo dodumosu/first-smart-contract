@@ -1,0 +1,20 @@
+{
+  "name": "first-smart-contract",
+  "version": "0.0.1",
+  "description": "A simple smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Odumosu Dipo",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.9.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
